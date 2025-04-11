@@ -14,4 +14,4 @@
 
 ## Contributing
 
-Please follow the project's code of conduct and contribution guidelines.
+Please follow the project's code of conduct and contribution guidelines.  
